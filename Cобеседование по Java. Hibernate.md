@@ -1,17 +1,23 @@
 # Cобеседование по Java. Разбор вопросов и ответов.
 
 
-<a href="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%">
-    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />        
-  </a>&nbsp;&nbsp;
-<a href="https://mc.yandex.ru/watch/92801430">
-    <img src="https://mc.yandex.ru/watch/92801430" />        
-  </a>&nbsp;&nbsp;
+[//]: # (<a href="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%">)
 
+[//]: # (    <img src="https://mc.yandex.ru/pixel/8711235002931986822?rnd=%aw_random%" />        )
 
-Нажмите ★, если вам нравится проект. Ваш вклад сердечно ♡ приветствуется.
+[//]: # (  </a>&nbsp;&nbsp;)
 
-Если вам интересно мое резюме: https://github.com/DEBAGanov
+[//]: # (<a href="https://mc.yandex.ru/watch/92801430">)
+
+[//]: # (    <img src="https://mc.yandex.ru/watch/92801430" />        )
+
+[//]: # (  </a>&nbsp;&nbsp;)
+
+[//]: # ()
+[//]: # ()
+[//]: # (Нажмите ★, если вам нравится проект. Ваш вклад сердечно ♡ приветствуется.)
+
+[//]: # (Если вам интересно мое резюме: https://github.com/ )
 
 1. Что такое Hibernate и как вы с ним работали?
 2. Какие преимущества использования Hibernate в своих проектах вы видите?
